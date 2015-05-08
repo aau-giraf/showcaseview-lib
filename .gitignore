@@ -1,16 +1,19 @@
 ﻿build/
 /build
-/.gradle
+/bin
+/gen
+
 /.idea
 local.properties
 *.iml
-.gradle
+
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
 
-/bin
-/gen
 /gradlew
 /gradlew.bat
+/gradle
+/.gradle
+.gradle
